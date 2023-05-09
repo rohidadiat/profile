@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+}
+
+.container-full {
+    height: 100%;
+}
+
+.custom-thumbnail {
+    /* background-color: #000000;
+    border-color: #000000;
+    Replace with your desired color */
+}
+
+.custom-bg1{
+    background-color: #87CBB9;
+}
+.custom-bg2{
+    background-color: #569DAA;
+}
+.custom-list-grup .list-group-item {
+    background-color: #569DAA;
+}
